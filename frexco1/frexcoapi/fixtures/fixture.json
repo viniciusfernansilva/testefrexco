@@ -1,0 +1,36 @@
+[{
+    "model": "frexcoapi.region",
+    "pk": 1,
+    "fields": {
+        "name": "Sul"
+    }
+},
+{
+    "model": "frexcoapi.region",
+    "pk": 2,
+    "fields": {
+        "name": "Sudeste"
+    }
+},
+{
+    "model": "frexcoapi.region",
+    "pk": 3,
+    "fields": {
+        "name": "Centro-Oeste"
+    }
+},
+{
+    "model": "frexcoapi.region",
+    "pk": 4,
+    "fields": {
+        "name": "Nordeste"
+    }
+},
+{
+    "model": "frexcoapi.region",
+    "pk": 5,
+    "fields": {
+        "name": "Norte"
+    }
+}
+]
