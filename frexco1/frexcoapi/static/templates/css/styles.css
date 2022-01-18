@@ -1,0 +1,62 @@
+html, body{
+    height: 100%;
+}
+
+body{
+    min-height: 100vh;
+}
+
+.container-fluid {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    padding-right: 0;
+    padding-left: 0;
+    
+}
+
+footer{
+    flex-shrink: 0;
+}
+
+main {
+    flex: 1 0 auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.row{
+    margin-left: 0;
+    margin-right: 0;
+}
+
+
+.title-home{
+    padding-top: 20%;
+    font-weight: bold;
+    font-size: 2.5rem;
+  }
+  
+  .hr-home{
+    border: black;
+    border-top: 5px solid;
+  }
+
+  .img-home{
+    width: 82%;
+    height: 82%;
+  }
+
+  .btn-home{
+    width: 100%;
+    color: white;
+    font-weight: bold;
+    background-color: lightseagreen;
+    border-color: lightseagreen;
+    margin-top: 10px;
+  }
+  
+  .btn-home:hover{
+    background-color: limegreen;
+    border-color: limegreen;
+  }
