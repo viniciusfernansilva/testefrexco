@@ -1,10 +1,10 @@
 # testefrexco
 Desafio criação de API para Frexco.
-## requerimentos de instalação
+## Requerimentos de instalação
 ```bash
 pip install -r requirements.txt
 ```
-## Requerimentos para execução:
+## Requerimentos para execução
 * Criar base de dados conforme o arquivo `settings.py`;
 * Modificar usuário, senha e localização conforme desejar;
 * Executar:
