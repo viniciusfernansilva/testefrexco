@@ -9,6 +9,9 @@ pip install -r requirements.txt
 * Modificar usuário, senha e localização conforme desejar;
 * Executar:
 ```bash
+python manage.py migrate
+```
+```bash
 python manage.py makemigrations
 ```
 ```bash
